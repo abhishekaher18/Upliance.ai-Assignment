@@ -4,7 +4,14 @@
 ## Project Overview
 
 **Objective:**  
-To analyze session and order data, correlate session engagement with revenue, and calculate the Average Revenue Per User (ARPU). The analysis provides insights into the relationship between user engagement and revenue generation.
+The primary objective of this project is to analyze datasets related to user behavior, cooking preferences, and order trends. The analysis aims to:
+
+- Clean and merge datasets (UserDetails, CookingSessions, and OrderDetails) for consistency and accuracy.
+- Explore the relationship between cooking sessions and user orders to understand user engagement and purchasing patterns.
+- Identify the most popular dishes among users based on order trends.
+- Analyze demographic factors influencing user behavior and cooking preferences.
+- Create visualizations to effectively communicate insights.
+- Summarize findings and provide actionable business recommendations to enhance user experience and optimize product offerings.
 
 **Key Highlights:**
 - High session engagement often correlates with higher revenue.
