@@ -1,8 +1,5 @@
 # Upliance.ai-Assignment
 
-This repository contains the code and data for the Average Revenue Per User (ARPU) analysis project. The goal of this project is to calculate ARPU by correlating user session engagement and revenue data.
-
----
 
 ## Project Overview
 
@@ -23,10 +20,7 @@ To analyze session and order data, correlate session engagement with revenue, an
 - **`notebooks/`**  
   Jupyter notebook for detailed analysis and visualization.
   
-- **`scripts/`**  
-  Python scripts for data processing and ARPU calculation.
-  
-- **`results/`**  
+- **`report/`**  
   Processed outputs, such as summarized user data and reports.
 
 ---
